@@ -10,5 +10,6 @@ public:
     void printData()
     {
         cout << "NIM = " << nim << endl;
+        cout << "nama = " << nama << endl;
     }
 }
